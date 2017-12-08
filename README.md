@@ -23,7 +23,6 @@ npm install -g @angular/cli; (node >= 6.9.x and npm >= 3.x.x) // 设置开发环
 ng new angular-topic; // 创建新项目及应用的骨架代码(包括安装npm包)
 
 cd angular-topic;ng serve --open; // 启动开发服务器(ng serve 监听文件变化，并在修改时重新构建此应用)
-
 ```
 
 
